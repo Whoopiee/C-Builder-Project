@@ -1,0 +1,7 @@
+Win32/
+__astcache/
+*.res
+*.local
+*.dll
+__recovery/
+__history/
